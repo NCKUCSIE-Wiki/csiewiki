@@ -1,6 +1,6 @@
 #!/bin/sh
 
-GITIT=gitit
+GITIT=/home/csiewiki/.cabal/bin/gitit
 BASEDIR=`dirname $0`
 
 case $1 in
